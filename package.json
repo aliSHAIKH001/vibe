@@ -68,6 +68,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "bunyan": "^1.8.15",
     "@types/bunyan": "^1.8.11",
     "@types/node": "^20",
     "@types/react": "^19",
